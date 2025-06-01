@@ -9,3 +9,24 @@ A simple yet powerful Contact Management Android application built using Kotlin,
 * 💉 Dependency Injection with Dagger Hilt
 * 🧪 Lifecycle-aware components using Jetpack ViewModel and LiveData
 * 🎨 Modern Material UI design with responsive layouts
+
+🛠 Tech Stack
+* Language: Kotlin
+* Architecture: MVVM
+* Database: Room (SQLite abstraction)
+* Dependency Injection: Dagger Hilt
+* Jetpack Components: ViewModel, LiveData, Navigation
+* UI: Material Components, RecyclerView
+
+📷 Screenshots
+
+
+
+📦 Setup & Installation
+1. Clone this repo
+   git clone "Link"
+2. Open with Android Studio
+3. Build and run on an emulator or Android device
+
+📄 License
+This project is open-source and available under the MIT License.
