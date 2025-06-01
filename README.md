@@ -24,7 +24,7 @@ A simple yet powerful Contact Management Android application built using Kotlin,
 
 📦 Setup & Installation
 1. Clone this repo
-   git clone "Link"
+   git clone ["Link"](https://github.com/ManojGowda15/Contact-Manager)
 2. Open with Android Studio
 3. Build and run on an emulator or Android device
 
